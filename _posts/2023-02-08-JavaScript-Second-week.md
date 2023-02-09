@@ -21,7 +21,7 @@ This week I have learned about different ways to declare variables and how to co
   </p>
 <p>I have also learned how to <a href="https://github.com/sriharsha0608/LanguageLearningBlog/blob/main/code/concatenation.js"> Concatenate</a>.</p>
 <code>
-  let favoriteAnimal='Dog';
+  let favoriteAnimal='Dog';<br>
   console.log('My favorite animal:'+ favoriteAnimal);
 </code>
 <br>

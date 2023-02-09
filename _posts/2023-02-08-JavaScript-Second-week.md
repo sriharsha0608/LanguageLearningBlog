@@ -18,9 +18,8 @@ This week I have learned about different ways to declare variables and how to co
     
  <p> When you use const you cannot reassign the values. You cannot leave a variable unassigned when using const, as it will leave SyntaxError. </p>
    </ol>
-  
-</p>
-I have also learned how to <a href="https://github.com/sriharsha0608/LanguageLearningBlog/blob/main/code/concatenation.js"> Concatenate</a>.
+  </p>
+<p>I have also learned how to <a href="https://github.com/sriharsha0608/LanguageLearningBlog/blob/main/code/concatenation.js"> Concatenate</a>.</p>
 <code>
   let favoriteAnimal='Dog';
   console.log('My favorite animal:'+ favoriteAnimal);

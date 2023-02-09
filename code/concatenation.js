@@ -1,5 +1,2 @@
-console.log('Hello '+'World');
-let fName='Harsha';
-let lName='Arigila';
-let Name = fName+' ' +lName;
-console.log(Name);
+let favoriteAnimal='Dog';
+console.log('My favorite animal:'+ favoriteAnimal);

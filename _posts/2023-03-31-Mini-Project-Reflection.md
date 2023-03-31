@@ -36,9 +36,9 @@ module.exports = (todos) => {
 <p>
   My previous knowledge of git for creation of a branch, pushing and merging were useful in this project.
 To complete this project I need to learn how to write APIs in JavaScript, using postman software, and creating github issues. This is my first time writing an API. 
-
+</p>
   <b>Challenges:</b>
-  Initially, I faced challenges in writing the APIs in separate files. But, with the help of my teammates I was able to complete my task. The biggest challenge was managing the time. As each of us 
+<p>  Initially, I faced challenges in writing the APIs in separate files. But, with the help of my teammates I was able to complete my task. The biggest challenge was managing the time. As each of us 
 have different subjects and different tasks to complete, we had troubles in managing time. At the end of the day, we successfully completed the project.
   </p>
   
